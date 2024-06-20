@@ -6,7 +6,7 @@ wxBEGIN_EVENT_TABLE(MyFrame, wxFrame)
 wxEND_EVENT_TABLE()
 
 MyFrame::MyFrame(const wxString& title)
-        : wxFrame(NULL, wxID_ANY, title, wxDefaultPosition, wxSize(400, 300))
+        : wxFrame(NULL, wxID_ANY, title, wxDefaultPosition, wxSize(500, 400))
 {
     wxPanel *panel = new wxPanel(this, wxID_ANY);
 
@@ -27,6 +27,7 @@ MyFrame::MyFrame(const wxString& title)
     taskList = new wxListCtrl(panel, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxLC_REPORT);
     taskList->InsertColumn(0, "ID", wxLIST_FORMAT_LEFT, 50);
     taskList->InsertColumn(1, "Task", wxLIST_FORMAT_LEFT, 300);
+    taskList->InsertColumn(3, "Priority", wxLIST_FORMAT_LEFT, 70);
 
     vbox->Add(taskList, 1, wxEXPAND | wxLEFT | wxRIGHT | wxBOTTOM, 10);
 
