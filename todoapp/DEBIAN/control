@@ -1,0 +1,9 @@
+Package: todo-app
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: 
+Maintainer: Ryan Okal <ryanokalotieno@gmail.com>
+Description: A simple To-Do App
+
