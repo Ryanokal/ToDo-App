@@ -1,0 +1,6 @@
+# ninja log v5
+26	17963	1718893712539137355	CMakeFiles/App.dir/src/main.cpp.o	8af7ea0346a621ee
+45	18008	1718893712562471636	CMakeFiles/App.dir/src/MyApp.cpp.o	cae37b87052863cf
+65	19423	1718893713999196614	CMakeFiles/App.dir/src/MyFrame.cpp.o	facafdc5412bdc88
+17976	25345	1718893719922770363	CMakeFiles/App.dir/src/TaskDatabase.cpp.o	e17087e94110ad3b
+25345	34539	1718893729113143370	App	7fee6aa066c06a68
