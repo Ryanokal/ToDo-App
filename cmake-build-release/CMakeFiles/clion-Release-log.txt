@@ -1,0 +1,4 @@
+/home/ryanokal/Downloads/clion-2024.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/ryanokal/Downloads/clion-2024.1.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/ryanokal/Desktop/CODE/C++/Projects/App-Dev -B /home/ryanokal/Desktop/CODE/C++/Projects/App-Dev/cmake-build-release
+-- Configuring done (1.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/ryanokal/Desktop/CODE/C++/Projects/App-Dev/cmake-build-release

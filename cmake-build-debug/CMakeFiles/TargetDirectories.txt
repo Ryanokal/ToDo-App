@@ -1,0 +1,3 @@
+/home/ryanokal/Desktop/CODE/C++/Projects/App-Dev/cmake-build-debug/CMakeFiles/App.dir
+/home/ryanokal/Desktop/CODE/C++/Projects/App-Dev/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ryanokal/Desktop/CODE/C++/Projects/App-Dev/cmake-build-debug/CMakeFiles/rebuild_cache.dir
